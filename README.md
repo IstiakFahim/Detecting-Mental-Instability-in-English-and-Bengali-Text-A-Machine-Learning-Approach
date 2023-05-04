@@ -12,11 +12,6 @@ Data is collected from user posts on Reddit using web scraping. There are suppor
 ### Fig: Data Collection Process
 
 
-### Table: Accuracy comparison among the used machine
-learning, deep learning & transformer-based learning
-models
-
-
 | **Class Name** | **English Data** | **Bengali Data**
 | :-------- | :------- | :------- 
 | Anxiety | 1024 | 991
@@ -31,6 +26,7 @@ models
 | Self Harm | 746 | 671
 | Neutral | 1024 | 1002
 
+### Table: Accuracy comparison among the used machine learning, deep learning & transformer-based learning models
 
 ## Embedding
 
