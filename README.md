@@ -10,9 +10,8 @@ Data is collected from user posts on Reddit using web scraping. There are suppor
 
 ![Data-Collect-(Small)](https://user-images.githubusercontent.com/74653056/236352432-8abf9f11-3965-4541-b487-12c6120405b2.png)
 
-<p align="center">
 Fig: Data Collection Process
-</p>
+
 
 
 | **Class Name** | **English Data** | **Bengali Data**
