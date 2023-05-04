@@ -8,7 +8,8 @@ Future research could involve utilizing social media data to detect other mental
 
 Data is collected from user posts on Reddit using web scraping. There are support groups on Reddit with people wanting to know about and suffering from mental health issues, and experts in those groups give them consultancy. These groups are known as "subreddits." We collected data from each subreddits for every mental state we worked on. There are subreddits specialized in mental health issues such as Bipolar, Schizophrenia, Addiction, Alcoholism, Asperger’s, Neutral, Suicidal Thought, Anxiety, Depression, and Self Harm. All these mental health issues. Web scraping techniques are used in this process. We used Reddit's API to scrape data from Reddit. Using scraping, we scraped 12000 English data from Reddit.
 
-<img src="[https://github.com/favicon.ico](https://user-images.githubusercontent.com/74653056/236351158-19c75a3f-4b0a-4506-a861-61b2b30e3570.png))" width="48">
+![Data Collection](https://user-images.githubusercontent.com/74653056/236351368-15febb38-d523-4c7d-b0e1-66ee9a4d3782.png =250x250 )
+
 <p align="center">
 Fig: Data Collection Process
 </p>
