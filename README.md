@@ -25,7 +25,7 @@ Data is collected from user posts on Reddit using web scraping. There are suppor
 | Addiction | 998 | 921
 | Asperger’s | 799 | 789
 | Self Harm | 746 | 671
-| Neutral | 1024 | 1002
+| Neutral | 1024 | 1003
 
 
 ## Embedding
